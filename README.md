@@ -6,3 +6,8 @@ Some description!
 
 I'm watching the tutirial on YouTube.
 
+## Local Development
+
+1. Open index.html in yout browser
+
+
